@@ -8,5 +8,6 @@ VagrantとDockerでMongoDB環境をさくっと作るサンプル。
 * `vagrant halt`で止まる
 * `localhost:27017`がMongoDB
 
-[GUI Tool]  
+[GUI Tool]
 [Robomongo](http://robomongo.org/)
+
